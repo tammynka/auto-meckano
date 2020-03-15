@@ -11,7 +11,7 @@ chrome.runtime.onMessage.addListener(
     });
 
 function getReportTable() {
-    return document.querySelector('.employee-report');
+    return document.querySelector('#mainview .employee-report');
 }
 
 function getReportTableDays() {
