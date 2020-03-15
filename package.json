@@ -1,0 +1,9 @@
+{
+  "name": "auto-meckano",
+  "version": "1.0.0",
+  "description": "Auto log the start and end times of the work day on Meckano's monthly report",
+  "main": "index.html",
+  "author": "Tammy Kaldes",
+  "license": "MIT",
+  "private": true
+}

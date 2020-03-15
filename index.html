@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Auto Log Your Time</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="popup">
+    <h1>Auto Log Your Time</h1>
+    <p>Auto log the start and end times of your work day on <a href="https://app.meckano.co.il/"
+        target="_blank">Meckano</a>'s monthly report.
+    </p>
+    <form>
+      <div class="field">
+        <label for="checkIn">Check In</label>
+        <input type="time" name="checkIn" value="09:00" />
+      </div>
+      <div class="field">
+        <label for="checkOut">Check Out</label>
+        <input type="time" name="checkOut" value="18:00" />
+      </div>
+      <div>
+        <input type="submit" name="Auto Fill" value="Log Time" />
+      </div>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
