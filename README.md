@@ -17,4 +17,4 @@ This is a Chrome extension that allows you to auto log the start and end times o
 4. Click the auto-meckano icon in the browser's toolbar.
 5. Adjust the start and end times.
 6. Click the button.
-7. Approve the Monthly report on the Meckano page.
+7. Review the data and click the *Save and Close* button in the Meckano page.

@@ -77,6 +77,10 @@ input[type=time] {
   font-family: sans-serif;
 }
 
+input[type=time].invalid {
+  border-color: red;
+}
+
 input[type="submit"] {
   font-size: 1em;
   font-weight: bold;
